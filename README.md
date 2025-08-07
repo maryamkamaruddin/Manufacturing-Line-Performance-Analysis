@@ -1,6 +1,6 @@
 # Manufacturing-Line-Performance-Dashboard
 
-About this project
+About this project: Personal Project
 
 Goal
 
@@ -44,6 +44,9 @@ Calculated columns and measures were added to the respective fact tables :
 
 2. Data Modeling
 
+![Image Alt](https://github.com/maryamkamaruddin/Manufacturing-Line-Performance-Dashboard/blob/88c769e6c0bb7887af546d8dfaf3dec1e1478f61/datamodel.jpg)
+
+
 The data model consists of multiple fact tables, ensuring a clear separation between production efficiency and downtime analysis. The key relationships are :
 
 - Fact_Line_Productivity links to :
@@ -59,6 +62,8 @@ Design
 
 1. Line Productivity
 
+![Image Alt](https://github.com/maryamkamaruddin/Manufacturing-Line-Performance-Dashboard/blob/88c769e6c0bb7887af546d8dfaf3dec1e1478f61/Manufacturing%20Line%20Performance%20Analysis%20Dashboard-images-0.jpg)
+
 The Line Productivity Dashboard provides stakeholders with key insights into manufacturing performance by tracking batch times, efficiency, and operator performance. This helps :
 - Reduces Delays – By pinpointing inefficiencies in batch times.
 - Optimizes Resource Allocation – By identifying slowest products and operators.
@@ -67,6 +72,8 @@ The Line Productivity Dashboard provides stakeholders with key insights into man
   
 2. Line Downtime
 
+![Image Alt](https://github.com/maryamkamaruddin/Manufacturing-Line-Performance-Dashboard/blob/88c769e6c0bb7887af546d8dfaf3dec1e1478f61/Manufacturing%20Line%20Performance%20Analysis%20Dashboard-images-1.jpg)
+
 The Line Downtime Dashboard provides stakeholders with insights into the factors contributing to production downtime, helping them identify inefficiencies, improve machine reliability, and enhance operator performance. This dashboard can helps :
 - Minimizes Production Loss – By addressing top downtime contributors.
 - Improves Workforce Efficiency – By identifying operator-related inefficiencies.
@@ -74,6 +81,9 @@ The Line Downtime Dashboard provides stakeholders with insights into the factors
 - Optimizes Scheduling & Resource Allocation – By tracking downtime trends and their impact on production.
 
 3. Failure Analysis
+
+![Image Alt](https://github.com/maryamkamaruddin/Manufacturing-Line-Performance-Dashboard/blob/88c769e6c0bb7887af546d8dfaf3dec1e1478f61/Manufacturing%20Line%20Performance%20Analysis%20Dashboard-images-2.jpg)
+
 
 The Failure Analysis Dashboard focuses on reliability and maintainability through MTBF (Mean Time Between Failure), MTTR (Mean Time To Repair), and Failure Rate (λ). Combined with Fault Tree Analysis, it helps stakeholders understand the root causes of downtime and guides proactive strategies for both maintenance and operator development. This dashboard can help :
 - Improve Machine Uptime — By tracking MTBF and aiming for longer failure-free periods.
