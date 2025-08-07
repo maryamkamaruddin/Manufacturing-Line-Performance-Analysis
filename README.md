@@ -1,4 +1,4 @@
-# Manufacturing-Line-Performance-Analysis
+# Manufacturing-Line-Performance-Dashboard
 
 About this project
 
